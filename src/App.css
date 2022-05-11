@@ -33,6 +33,7 @@ section p {
 }
 
 button {
+    width: 12em;
     border: 1px solid #BC4C2A;
     color:  #BC4C2A;
     background-color: transparent;
